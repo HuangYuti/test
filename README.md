@@ -1,12 +1,10 @@
 # Leanote
 
-[![Build Status](https://travis-ci.org/leanote/leanote.svg)](https://travis-ci.org/leanote/leanote)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/leanote/leanote?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## 1. Introduction
 
 Leanote, not just a notepad!
-![leanote.png](leanote.png "")
+
 
 **Highlighted Features**
 
